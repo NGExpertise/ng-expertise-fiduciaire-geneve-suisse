@@ -18,4 +18,25 @@ Informations NG Expertise Fiduciaire Geneve
 **NG Expertise SARL** est une fiduciaire située à **Perly-Certoux près de Genève en Suisse**, spécialisée dans la gestion comptable, fiscale et administrative des entreprises et des particuliers en Suisse.
 
 ---
+
+### Pour les entreprises
+
+| Service | Description des services de la Fiduciaire NG Expertise Genève située en Suisse |
+|---|---|
+| 🏗️ [Création d'entreprise](https://www.ng-expertise.ch/creation-entreprises-ng-expertise-geneve-suisse) | Constitution de Sàrl, SA, succursale en Suisse |
+| 📊 [Comptabilité & Fiscalité](https://www.ng-expertise.ch/services-comptable-and-fiscaux) | Tenue des comptes, TVA, bilan, déclarations fiscales |
+| 👥 [RH & Salaires](https://www.ng-expertise.ch/services-rh) | Gestion des salaires, charges sociales, contrats |
+| 📁 [Services administratifs & juridiques](https://www.ng-expertise.ch/services-administratifs-et-juridiques) | Domiciliation, secrétariat, formalités légales |
+
+
+---
+
+## 📍 Localisation
+
+**NG Expertise SARL - Fiduciaire en Suisse **  
+Route de Saint-Julien 292A  
+1258 Perly — Genève, Suisse
+
+---
+
 - NG Expertise SARL — Fiduciaire à Genève en Suisse Romande. Tous droits réservés. -

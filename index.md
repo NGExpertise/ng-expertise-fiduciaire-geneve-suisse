@@ -7,13 +7,13 @@ permalink: /
 
 # Fiduciaire NG Expertise Genève – Création d’entreprise et comptabilité en Suisse
 
-La **fiduciaire NG Expertise** accompagne les entrepreneurs, indépendants et sociétés dans la gestion comptable, fiscale et administrative de leur activité en Suisse. Située à proximité de Genève, cette fiduciaire propose un accompagnement complet pour simplifier la gestion d’entreprise et assurer la conformité avec les exigences légales suisses.
+La **fiduciaire NG Expertise** accompagne les entrepreneurs, indépendants et sociétés dans la gestion comptable, fiscale et administrative de leur activité en Suisse. Située à proximité de Genève, NG Expertise propose un accompagnement complet pour simplifier la gestion d’entreprise et assurer la conformité avec les exigences légales suisses.
 
 NG Expertise intervient aussi bien pour la **création d’entreprise en Suisse**, la **gestion comptable**, les **déclarations fiscales**, que pour la **domiciliation et l’administration des sociétés**.
 
-👉 Le site officiel de NG Expertise - Fiduciaire à Genève vous présente les différentes prestations proposés par NG Expertise Genève :  
+👉 Le site officiel de NG Expertise - Fiduciaire à Genève vous présente les différentes prestations proposées par NG Expertise Genève :  
 
-[NG Expertise Fiduciaire Genève - www.ng-expertise.ch](https://www.ng-expertise.ch)
+[NG Expertise Fiduciaire à Genève - www.ng-expertise.ch](https://www.ng-expertise.ch)
 
 
 ---
@@ -21,7 +21,7 @@ NG Expertise intervient aussi bien pour la **création d’entreprise en Suisse*
 
 ## Une fiduciaire à proximité de Genève
 
-Implantée à **Perly-Certoux**, aux portes de Genève, la fiduciaire NG Expertise accompagne les entrepreneurs locaux, les frontaliers, les indépendants et les sociétés suisses dans la gestion de leurs obligations comptables et fiscales.
+Implantée à **Perly-Certoux, aux portes de Genève**, la fiduciaire NG Expertise accompagne les entrepreneurs locaux, les indépendants, les frontaliers et les sociétés suisses dans la gestion de leurs obligations comptables et fiscales.
 
 L’objectif est de permettre aux dirigeants de se concentrer sur leur activité principale tout en bénéficiant d’une gestion financière claire et conforme à la réglementation suisse.
 
@@ -65,11 +65,10 @@ La tenue d’une comptabilité rigoureuse est essentielle pour piloter une entre
 
 NG Expertise propose un service complet de gestion comptable :
 
-- tenue de la comptabilité
-- établissement des comptes annuels
-- gestion des factures et des documents comptables
-- suivi de trésorerie
 - analyse financière
+- gestion des factures et des documents comptables
+- établissement des comptes annuels
+- suivi de trésorerie
 - conseils stratégiques
 
 Une comptabilité bien organisée permet d’anticiper les décisions et d’optimiser la gestion financière de l’entreprise.
@@ -114,7 +113,7 @@ Ces services permettent aux entreprises de gagner du temps et de sécuriser leur
 ---
 
 
-## Pourquoi choisir NG Expertise
+## Pourquoi choisir NG Expertise - Fiduciaire à Genève
 
 NG Expertise se distingue par une approche basée sur :
 
@@ -145,7 +144,7 @@ Canton de Genève – Suisse
 ---
 
 
-## Fiduciaire Genève – accompagnement des entrepreneurs
+## Fiduciaire à Genève – accompagnement des entrepreneurs
 
 Que vous soyez :
 

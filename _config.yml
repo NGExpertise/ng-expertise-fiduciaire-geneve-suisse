@@ -1,8 +1,8 @@
 title: NG Expertise - Fiduciaire à Genève en Suisse
 description: Accompagnement à la création d'entreprises en Suisse, comptabilité, gestion administrative, domicilation. La Fiduciaire NG Expertise Genève accompagne votre entreprise au quotidien.
 
-url: "https://ng-expertise-fiduciaire-geneve-suisse.github.io"
-baseurl: "/ng-expertise-fiduciaire-geneve-suisse/"
+url: "https://ngexpertise.github.io"
+baseurl: "/ng-expertise-fiduciaire-geneve-suisse"
 
 theme: minima
 

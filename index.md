@@ -18,8 +18,7 @@ NG Expertise intervient aussi bien pour la **création d’entreprise en Suisse*
 
 ---
 
-
-##[Une fiduciaire à proximité de Genève](https://www.ng-expertise.ch/contacter-ng-expertise-fiduciaire-geneve-suisse)
+## Une fiduciaire à proximité de Genève
 
 Implantée à **Perly-Certoux, aux portes de Genève**, la fiduciaire NG Expertise accompagne les entrepreneurs locaux, les indépendants, les frontaliers et les sociétés suisses dans la gestion de leurs obligations comptables et fiscales.
 

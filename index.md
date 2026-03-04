@@ -140,7 +140,7 @@ Canton de Genève – Suisse
 
 [Création d'entreprises en Suisse - NG Expertise Genève](https://www.ng-expertise.ch/creation-entreprises-ng-expertise-geneve-suisse)
 
-[Commtabilité et Fiscalité - NG Expertise Genève](https://www.ng-expertise.ch/services-comptable-and-fiscaux)
+[Comptabilité et Fiscalité - NG Expertise Genève](https://www.ng-expertise.ch/services-comptable-and-fiscaux)
 
 [Accueil site NG Expertise Genève - www.ng-expertise.ch](https://www.ng-expertise.ch)
 

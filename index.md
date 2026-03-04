@@ -15,7 +15,9 @@ NG Expertise intervient aussi bien pour la **création d’entreprise en Suisse*
 
 [NG Expertise Fiduciaire Genève - www.ng-expertise.ch](https://www.ng-expertise.ch)
 
+
 ---
+
 
 ## Une fiduciaire à proximité de Genève
 
@@ -35,7 +37,9 @@ Les services proposés couvrent l’ensemble des besoins administratifs et finan
 
 Grâce à une expertise fiduciaire complète, NG Expertise accompagne les entreprises à chaque étape de leur développement.
 
+
 ---
+
 
 ## Création d’entreprise en Suisse
 
@@ -51,7 +55,9 @@ La fiduciaire NG Expertise accompagne les porteurs de projet dans :
 
 Cet accompagnement permet de lancer une activité sur des bases solides et conformes au cadre réglementaire suisse.
 
+
 ---
+
 
 ## Comptabilité et gestion financière
 
@@ -68,7 +74,9 @@ NG Expertise propose un service complet de gestion comptable :
 
 Une comptabilité bien organisée permet d’anticiper les décisions et d’optimiser la gestion financière de l’entreprise.
 
+
 ---
+
 
 ## Gestion fiscale et déclarations d’impôts
 
@@ -84,7 +92,9 @@ NG Expertise accompagne ses clients dans :
 
 L’objectif est d’assurer une fiscalité conforme et optimisée.
 
+
 ---
+
 
 ## Gestion administrative et domiciliation
 
@@ -100,7 +110,9 @@ Services proposés :
 
 Ces services permettent aux entreprises de gagner du temps et de sécuriser leur gestion administrative.
 
+
 ---
+
 
 ## Pourquoi choisir NG Expertise
 
@@ -113,21 +125,25 @@ NG Expertise se distingue par une approche basée sur :
 
 La fiduciaire agit comme un **véritable partenaire de gestion pour les entrepreneurs en Suisse**.
 
+
 ---
 
-## Coordonnées – Fiduciaire NG Expertise (NAP)
+
+## Coordonnées – Fiduciaire NG Expertise Genève
 
 **NG Expertise Sàrl**  
 Route de Saint-Julien 292A  
-1258 Perly-Certoux  
-Genève – Suisse  
+1258 Perly-Certoux - Genève
+Canton de Genève – Suisse  
 
 📞 Téléphone : +41 22 310 77 92  
 
 🌐 Site internet :  
 [www.ng-expertise.ch](https://www.ng-expertise.ch)
 
+
 ---
+
 
 ## Fiduciaire Genève – accompagnement des entrepreneurs
 
@@ -143,6 +159,7 @@ NG Expertise vous accompagne dans toutes les étapes de votre projet avec une ex
 
 Pour en savoir plus, consultez le site officiel :
 [www.ng-expertise.ch](https://www.ng-expertise.ch)
+
 
 ---
 

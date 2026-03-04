@@ -162,4 +162,26 @@ Pour en savoir plus, consultez le site officiel :
 
 ---
 
-*Page informative dédiée à la fiduciaire NG Expertise à Genève et à ses services de création d’entreprise, comptabilité et gestion administrative en Suisse.*
+## Fiduciaire NG Expertise Genève
+
+NG Expertise est une fiduciaire spécialisée en création d'entreprise, comptabilité et fiscalité en Suisse.
+
+<a href="https://www.ng-expertise.ch">Site officiel NG Expertise</a>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AccountingService",
+  "name": "NG Expertise Fiduciaire Geneve",
+  "url": "https://www.ng-expertise.ch",
+  "telephone": "+41 22 310 77 92",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Route de Saint-Julien 292A",
+    "addressLocality": "Perly-Certoux",
+    "postalCode": "1258",
+    "addressCountry": "CH"
+  }
+}
+</script>
+
